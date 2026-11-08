@@ -15,7 +15,7 @@ Training material by **Muhammad Bilal** — Excel formulas explained with real I
 
 ## Watch the demos
 
-- **YouTube playlist (Unlisted):** [ADD PLAYLIST LINK AFTER UPLOAD]
+- **YouTube playlist (Unlisted):** https://www.youtube.com/playlist?list=PLbvk4Aqr_n70
 - **Google Drive folder (Viewer-only):** https://drive.google.com/drive/folders/1OpKPzwcD3-lO02OSnOWxCktGsZwuGY-4
 - **Combined video:** all 42 demos in order, 25 min 05 s, in the Drive folder (`00_All_42_Formulas_Combined.mp4`).
 
